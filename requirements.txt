@@ -1,5 +1,5 @@
 openai
 python-dotenv
-sqlite
 streamlit
 g4f
+db-sqlite3
