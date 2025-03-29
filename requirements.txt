@@ -1,0 +1,6 @@
+openai
+python-dotenv
+sqlite3
+streamlit
+g4f
+sqlite3
